@@ -27,7 +27,7 @@ void xor_encrypt_decrypt(char *input, char *key)
 
 int main()
 {
-   char url[] = "https://github.com/Jayabharathi3";
+   char url[] = "https://github.com/sathishramachandhiran";
    char key[] = "secretkey"; // Simple key for XOR encryption
 
    printf("Original URL: %s\n", url);
@@ -43,9 +43,10 @@ int main()
    return 0;
 }
 
+
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/2cc67f49-8917-4685-afc0-827458db32d1)
+![image](aes.png)
 
 
 ## RESULT: 
